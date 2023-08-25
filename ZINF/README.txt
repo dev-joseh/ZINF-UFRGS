@@ -40,6 +40,14 @@ Compile o jogo usando o compilador C de sua escolha.
 Execute o jogo.
 Escolha sua dificuldade e comece sua aventura.
 
+===> Como carregar níveis:
+Os níveis são matrizes de caractéres em arquivos .txt, dentro da pasta niveis.
+Nesses arquivos, os possíveis caractéres são:
+P - Pedras de obstáculo
+B - Background
+M - Monstro
+J - Jogador
+
 ===> Contribuição:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar solicitações de pull para melhorar o jogo.
 
