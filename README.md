@@ -32,7 +32,7 @@ NÃO TESTADA: 	Velocidade dos monstros causa epilepsia, jogador absurdamente len
 
 _Escolha sabiamente sua dificuldade ou sofra as consequências!_
 
-![](https://github.com/dev-joseh/ZINF-UFRGS/blob/main/Imagens/GameOver.PNG)
+![](https://github.com/dev-joseh/ZINF-UFRGS/blob/main/Imagens/Game Over.PNG)
 
 # Desenvolvimento:
 Este jogo foi desenvolvido em linguagem C, utilizando a biblioteca Raylib.  
