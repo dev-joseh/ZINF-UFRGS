@@ -40,11 +40,12 @@ Alguns dos sprites utilizados no jogo foram fornecidos pelo nosso professor.
 Além disso, alguns efeitos sonoros foram retirados da internet para tornar a experiência mais imersiva.  
 
 # Como Jogar:
-Clone este repositório em sua máquina local.  
-Certifique-se de que você possui a biblioteca Raylib (www.raylib.com) instalada.  
-Compile o jogo usando o compilador C de sua escolha.  
+Clone este repositório ou baixe pasta inteira.  
 Execute o jogo.  
-Escolha sua dificuldade e comece sua aventura.  
+Escolha a dificuldade e comece sua aventura.  
+
+Para compilar o jogo, certifique-se de ter a biblioteca raylib instalada (www.raylib.com).  
+Compile o jogo usando o compilador C de sua escolha.  
 
 # Criar níveis:
 Para criar novos níveis, adicione um arquivo .txt com o nome "nivel@.txt" dentro da pasta niveis.  
