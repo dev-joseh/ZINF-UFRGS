@@ -40,7 +40,7 @@ Alguns dos sprites utilizados no jogo foram fornecidos pelo nosso professor.
 Além disso, alguns efeitos sonoros foram retirados da internet para tornar a experiência mais imersiva.  
 
 # Como Jogar:
-Clone este repositório ou baixe pasta inteira.  
+Clone este repositório ou baixe pasta "ZINF".    
 Execute o jogo.  
 Escolha a dificuldade e comece sua aventura.  
 
