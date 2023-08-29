@@ -49,7 +49,7 @@ Compile o jogo usando o compilador C de sua escolha.
 
 # Criar níveis:
 Para criar novos níveis, adicione um arquivo .txt com o nome "nivel@.txt", onde @ seria o número do nível, dentro da pasta niveis.  
-O arquivo deve conter uma tabela de caracteres que representam cada objeto do jogo (B, P, J ou M)  
+O arquivo deve conter uma tabela de (16×24) caracteres que representam cada objeto do jogo (B, P, J ou M)  
 **B** - Background, é o chão que o jogador e os monstros pisam  
 **P** - Pedra, obstáculo que impede a movimentação de monstros e do jogador  
 **J** - Jogador, a posição inicial do jogador       **(MAX 1)**  
